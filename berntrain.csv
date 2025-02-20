@@ -1,0 +1,6 @@
+confident,studied,sick,result
+1,0,0,Fail
+1,0,1,Pass
+0,1,1,Fail
+0,1,0,Pass
+1,1,1,Pass
