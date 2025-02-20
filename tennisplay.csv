@@ -1,0 +1,15 @@
+weather,temperature,humdity,play
+rainy,hot,high,no
+rainy,hot,high,no
+overcast,hot,high,yes
+sunny,mild,high,yes
+sunny,cool,normal,yes
+sunny,cool,normal,no
+overcast,cool,normal,yes
+rainy ,mild,high,no
+rainy,cool,normal,yes
+sunny,mild,normal,yes
+rainy,mild,normal,yes
+overcast ,mild,high,yes
+overcast,hot,normal,yes
+sunny,mild,high,no
